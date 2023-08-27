@@ -1,4 +1,7 @@
-{
+{ 
+  "engines": {
+    "node": ">=14.20.1"
+  },
   "name": "habittracker",
   "version": "1.0.0",
   "description": "A web application to keep track of daily habits",
